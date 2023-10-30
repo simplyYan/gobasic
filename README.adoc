@@ -1,0 +1,24 @@
+= GoBasic
+
+GoBasic is a utility library designed to simplify and enhance the basic features of the Go programming language. It provides easy-to-use functions for creating loops, intervals, string manipulation, procedural number generation, and mathematical operations.
+
+== Key Features
+
+* Fast: GoBasic is designed to be efficient and minimize resource usage.
+* Open-source: You can freely use, modify, and distribute GoBasic under its license.
+* Extremely easy: GoBasic provides a simple and intuitive API.
+* Lightweight: GoBasic is not bloated and focuses on providing only the essential features.
+* Broad: Despite its simplicity, GoBasic covers a wide range of features.
+* Highly documented: GoBasic has comprehensive and clear documentation.
+
+== Installation
+
+To install the GoBasic library, use the `go get` command:
+
+----
+go get https://github.com/simplyYan/gobasic
+----
+
+== License
+
+GoBasic is licensed under the BSD-3-Clause license. You can find the full text of the license in the LICENSE file in the root directory of the source code.
